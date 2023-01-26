@@ -1,0 +1,97 @@
+body{  
+    padding: 0px;
+    margin: 0px;
+background-color: #2E446F;
+}
+
+nav{
+    background-color: #FADA6B;
+    height: 150px;
+    position: relative;
+}
+
+.nav1{
+    background-color: #ffffff;
+    border-radius: 15px 15px;
+    height: 250px;
+    width: 400px;
+}
+
+
+.bar2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.bttn{
+    font-size: 100;
+    color: #FADA6B;
+    padding: 30px 80px;
+    padding-top: 15px;
+    background: #FFFFFF;
+    outline: none;
+    border: 5px;
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 0 15px #FADA6B;
+    display: flex;
+    flex-direction: column;
+    width: 5px;
+    height: 80px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-block: 5px;
+
+    }
+    
+.bttn:hover {
+    box-shadow: 0 4px #FADA6B;
+    top: 2px;
+    }
+
+    .btnsv{
+        width: 300px;
+        height: 55px;
+        margin: 10px auto 0;
+        color: #2E446F;
+        padding: 30px 15px;
+        background: #f3aa00;
+        outline: none;
+        border: 5px;
+        cursor: pointer;
+        margin-top: 55px;
+        border-radius: 20px;
+        position: relative;
+        box-shadow: 0 6px #ffffff;
+        display: flex;
+        image-resolution: 25px;
+        align-items: center;
+        font-size: 40px;
+        margin-right: 50px;
+        margin-left: 65px;
+        }
+
+        .align{
+            display: flex;
+            flex-direction: row;
+            text-align: center;
+            margin-top: 70px;
+            margin: 20px;
+            justify-content: space-between;
+
+        }
+
+        .div11{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: url('https://www.maaf.fr/fr/files/live/sites/maaf/files/Vehicules/Auto/Visuels_article_pointsForts_940x440/assurance-tous-risques-940x440-AdobeStock_285665785.jpg');
+            background-size: cover;
+            color: #fff;
+            padding: 40px;
+            height: 100px;
+            border-radius: 15px;
+        }
