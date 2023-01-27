@@ -1,8 +1,4 @@
-body{  
-    padding: 0px;
-    margin: 0px;
-background-color: #2E446F;
-}
+
 
 nav{
     background-color: #FADA6B;
@@ -38,7 +34,7 @@ nav{
 .bar2{
     display: flex;
     flex-direction: row;
-    white-space: 200px;
+    white-space: 100px;
     justify-content: space-between;
 }
 
@@ -52,17 +48,17 @@ h3{
 
 .bttn{
     margin: 10px auto 0;
-    font-size: 300;
+    font-size: 100;
     color: #FADA6B;
-    padding: 25px 80px;
+    padding: 25px 40px;
     background: #FFFFFF;
     outline: none;
     border: none;
     cursor: pointer;
     border-radius: 20px;
     box-shadow: 0 6px #FADA6B;
-    margin-left: 440px;
-    margin-top: 5px;
+    margin-left: 30px;
+    margin-top: -45px;
     display: flex;
     flex-direction: column;
     width: 250px;
